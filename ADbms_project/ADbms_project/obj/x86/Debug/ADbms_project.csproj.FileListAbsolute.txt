@@ -1,0 +1,45 @@
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form1.resources
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form2.resources
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form3.resources
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form4.resources
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form5.resources
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form6.resources
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.mASTER_FORM.resources
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.WELCOME_FORM.resources
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\bin\Debug\ADbms_project.exe
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\bin\Debug\ADbms_project.pdb
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.exe
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.pdb
+C:\Users\user\documents\visual studio 2010\Projects\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form7.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\New folder\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.exe
+C:\Users\Home\Documents\Visual Studio 2010\Projects\New folder\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.pdb
+C:\Users\Home\Documents\Visual Studio 2010\Projects\New folder\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form1.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\New folder\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form2.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\New folder\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form3.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\New folder\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form4.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\New folder\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form5.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\New folder\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form6.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\New folder\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form7.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\New folder\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.mASTER_FORM.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\New folder\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\New folder\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.WELCOME_FORM.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\New folder\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.csproj.GenerateResource.Cache
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.exe
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form1.resources
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form2.resources
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form3.resources
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form4.resources
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form5.resources
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Form6.resources
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.mASTER_FORM.resources
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.Properties.Resources.resources
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.WELCOME_FORM.resources
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.csproj.GenerateResource.Cache
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\bin\Debug\ADbms_project.exe
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\bin\Debug\ADbms_project.pdb
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.pdb
+D:\New folder\ADBMS project\ADbms_project\ADbms_project\obj\x86\Debug\ADbms_project.csprojResolveAssemblyReference.cache
